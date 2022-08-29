@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cra-template-skochdev-ts/static/css/main.f2ecc4fb.css",
-    "main.js": "/cra-template-skochdev-ts/static/js/main.4a6a5f68.js",
+    "main.css": "/cra-template-skochdev-ts/static/css/main.17654e45.css",
+    "main.js": "/cra-template-skochdev-ts/static/js/main.f3e01fa1.js",
     "index.html": "/cra-template-skochdev-ts/index.html",
-    "main.f2ecc4fb.css.map": "/cra-template-skochdev-ts/static/css/main.f2ecc4fb.css.map",
-    "main.4a6a5f68.js.map": "/cra-template-skochdev-ts/static/js/main.4a6a5f68.js.map"
+    "main.17654e45.css.map": "/cra-template-skochdev-ts/static/css/main.17654e45.css.map",
+    "main.f3e01fa1.js.map": "/cra-template-skochdev-ts/static/js/main.f3e01fa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2ecc4fb.css",
-    "static/js/main.4a6a5f68.js"
+    "static/css/main.17654e45.css",
+    "static/js/main.f3e01fa1.js"
   ]
 }
